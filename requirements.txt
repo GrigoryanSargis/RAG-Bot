@@ -1,0 +1,6 @@
+transformers==4.51.3
+sentence-transformers==4.1.0
+streamlit==1.44.1
+faiss-cpu==1.10.0
+torch>=2.0.1  # Required by sentence-transformers
+duckduckgo-search>=0.9  # For online fallback
